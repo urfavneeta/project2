@@ -1,2 +1,6 @@
 Team Project
+
 Feature A implemented
+
+Feature B implemented
+
